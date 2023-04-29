@@ -1,0 +1,17 @@
+.check{
+    margin-left: 40px;
+    font-size: 10px;
+    font-style: oblique;
+}
+.check h4{
+    font-style: Time New Roman;
+}
+.about h2{
+    margin: 20px;
+    font-style: Times New Roman(serif);
+    text-align: center;
+}
+.about h3{
+    margin: 5%;
+    font-style: Times New Roman(serif);
+}
